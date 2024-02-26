@@ -1,6 +1,6 @@
 .card {
   background-color: var(--mantine-color-body);
-  margin: 0.5rem;
+  margin: 0.3rem;
 }
 
 @media (min-width: 300px) and (max-width: 600px) {
